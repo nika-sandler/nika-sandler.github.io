@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nika-sandler.github.io/sitemap.xml
